@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
+![MasterHead](https://64.media.tumblr.com/ddbd1bc29a57fd2b2b0c837745d77f3f/tumblr_nrmn7kLki51rcvimbo1_540.gif)
 # Hi there 👋 It's me Indeepa Adhikari
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
