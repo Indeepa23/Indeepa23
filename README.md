@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/ddbd1bc29a57fd2b2b0c837745d77f3f/tumblr_nrmn7kLki51rcvimbo1_540.gif)
+![MasterHead](https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif)
 # Hi there 👋 It's me Indeepa Adhikari
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
