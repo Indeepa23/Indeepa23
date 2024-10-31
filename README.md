@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)]
 # Hi there 👋 It's me Indeepa Adhikari
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
