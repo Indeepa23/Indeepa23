@@ -1,10 +1,10 @@
-![MasterHead](https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif)
+![MasterHead](https://camo.githubusercontent.com/908e2b270b0233e6eaac6e22501be8a05834bbc433f994fae283481c488edb8e/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365656530625f38623637383063366264383234356563616664626535356438646237653264667e6d76322e676966)
 # Hi there 👋 It's me Indeepa Adhikari
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
 - 👨‍💻 I'm currently learning **Coding**
 - 🎓 I'm an Undergraduate at JIAT
-- 🌱 One of the CTO of Endaevor
+- 🌱 One of the CTO of Endaevor Software Solutions
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: indeepa.adhi@gmail.com
 ---
@@ -18,6 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Frameworks and Libraries & IDEs
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
